@@ -1,0 +1,15 @@
+name: CI Workflow
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v2
+
+      - name: Run a simple script
+        run: |
+          echo "This job was triggered by a push event!"
+          echo "Current branch: ${{ github.ref }}"
