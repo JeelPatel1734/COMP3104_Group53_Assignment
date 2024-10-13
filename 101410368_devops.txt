@@ -1,0 +1,27 @@
+Course Overview
+Course Code: COMP 3104
+Course Title: DevOps
+Location: George Brown College, Toronto
+Duration: Typically a semester-long course
+Course Description
+The COMP 3104 DevOps course is designed to equip students with the skills and knowledge necessary to effectively implement DevOps practices in software development and IT operations. The course emphasizes collaboration, automation, and continuous improvement.
+
+Key Learning Objectives
+Understanding DevOps Principles: Learn the core principles of DevOps, including its benefits and challenges.
+Collaboration Techniques: Develop strategies to enhance communication and teamwork between development and operations teams.
+Continuous Integration and Continuous Deployment (CI/CD): Implement CI/CD pipelines to automate testing, integration, and deployment processes.
+Infrastructure as Code (IaC): Learn how to manage infrastructure using code to streamline provisioning and management.
+Monitoring and Feedback Loops: Understand how to set up monitoring solutions that provide real-time feedback on application performance.
+Security Practices in DevOps: Explore the integration of security measures within the DevOps lifecycle (DevSecOps).
+Tools and Technologies
+Version Control: Git and GitHub for source code management and collaboration.
+CI/CD Tools: Jenkins, Travis CI, or GitHub Actions for automating deployment processes.
+Containerization: Docker for creating and managing containers.
+Cloud Platforms: Familiarity with services like AWS, Azure, or Google Cloud for hosting applications.
+Course Outcomes
+Upon completion of this course, students will be able to:
+
+Collaborate effectively in cross-functional teams.
+Automate software delivery processes using DevOps tools.
+Implement best practices for monitoring and maintaining application performance.
+Understand the security implications of DevOps practices.
